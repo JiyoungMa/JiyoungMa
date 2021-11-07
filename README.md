@@ -22,7 +22,7 @@ I'm **Jiyoung Ma**, a college student, majoring in Computer Science Engineering 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyoungMa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<h3>📚 Techs which I'm studying recently </h3>
+<h3>📚 Techs that I've been studying lately </h3>
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></a>&nbsp 
