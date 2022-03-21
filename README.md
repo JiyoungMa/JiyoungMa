@@ -2,13 +2,14 @@
 JiyoungMa/JiyoungMa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cseella.tistory.com/)](https://cseella.tistory.com/)
-
 <h2>🐥 Hi, I’m @JiyoungMa 🐥</h2>
 
-I'm **Jiyoung Ma**, a college student, majoring in Computer Science Engineering from South Korea to become a **Backend Developer** !
+I'm **Jiyoung Ma**, a college student, majoring in Computer Science Engineering from South Korea to become a **Backend Developer** ! <br> <br>
+**Tech Blog↓**<br>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cseella.tistory.com/)](https://cseella.tistory.com/)
 
-<br>
+
+
 <h3>💻 Languages which I have used before</h3>
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
