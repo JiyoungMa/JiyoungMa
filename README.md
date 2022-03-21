@@ -29,7 +29,7 @@ I'm **Jiyoung Ma**, a college student, majoring in Computer Science Engineering 
 <br>
 
 <h2>프로젝트 설명</h2>
-<h3>1. WebVolume/Volume (진행중) => <a href = "https://github.com/WebVolume/volume"> Server Api Documents </a> </h3>
+<h3>1. WebVolume/Volume (진행중) => <a href = "https://github.com/WebVolume/volume#readme"> Server Api Documents </a> </h3>
 
 - "Sound Cloud" 웹사이트를 분석 후, 주요 기능들을 구현해보는 __팀 프로젝트__
 - 본인은 백엔드 담당으로 현재 User 관련 기능들을 구현함
@@ -45,6 +45,20 @@ I'm **Jiyoung Ma**, a college student, majoring in Computer Science Engineering 
 <h3>3. SegmentRe (진행중) => <a href = "https://github.com/JiyoungMa/SegmentRe"> Details with Images </a> </h3>
 
  - 프로젝트 2번 Segment를 웹 페이지로 구현하는 **개인 프로젝트** <br>
+ - Spring Boot, JPA, mySQL, Thymeleaf(+BootStrap) (추후에 heroku 등으로 서버 업로드 예정)<br><br>
+
+
+<h3>4. MagazineAutomationProject (완료) => <a href = "https://github.com/JiyoungMa/MagazineAutomationProject"> Details with Workflow </a> </h3>
+
+- 2020-12-28~2021-02-26에 진행한 현장실습 시, 진행한 매거진 자동화 프로그램
+- 사내 프로그램이기 때문에, 간단하게 python code로만 작성함<br><br>
+
+
+<h3>5. LogProject (완료) => <a href = "https://github.com/JiyoungMa/LogProject"> Details with Result Graphs </a> </h3>
+
+- 2020-12-28~2021-02-26에 진행한 현장실습 시, 진행한 로그 통계 산출 프로그램
+- Elastic Search를 통해 수집된 Log를 분석하여, Elastic Search에서 제공하는 통계치와 동일한지 확인 => 통계치의 의미를 이해하기 위함
+- 사내 프로그램이기 때문에, 간단하게 python code로만 작성함<br><br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiyoungMa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
