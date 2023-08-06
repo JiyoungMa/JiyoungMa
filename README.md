@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 <h2>🐥 Hi, I’m @JiyoungMa 🐥</h2>
 
 I'm **Jiyoung Ma**, a college student, majoring in Computer Science Engineering from South Korea to become a **Backend Developer** ! <br> <br>
-**Tech Blog↓**<br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cseella.tistory.com/)](https://cseella.tistory.com/)
 
 **이력서 및 포트폴리오↓** <br>
 https://mahogany-giver-7d7.notion.site/Jiyoung-Ma-530c8a5f035d4a2f99bec8a3bb5a4658
