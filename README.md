@@ -2,7 +2,16 @@
 JiyoungMa/JiyoungMa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h2>🐥 Hi, I’m @JiyoungMa 🐥</h2>
+
+<p>
+
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jiyoungma.github.io/)](https://jiyoungma.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jiyoung-ma-449b45264/)](https://www.linkedin.com/in/jiyoung-ma-449b45264/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiger980424@gmail.com)](mailto:tiger980424@gmail.com)
+
+</p>
 
 Currently, I am working as a backend developer at KakaoPay  in Pangyo, South Korea. <br>
 I prefer to take ownership of a specific service and improve it based on a deep understanding. I enjoy learning about various solutions and always consider how to achieve better outcomes.
@@ -35,10 +44,11 @@ Databases
 <br>
 
 <h2> Side Projects </h2>
-<h3> 1. Lesson and Learns (Ongoing Projects)</h3>
+<h3> 1. <a href = "https://github.com/JiyoungMa/Lessons-Learned">Lessons Learned (Ongoing Projects)</a></h3>
 
 - A project that organizes everything I've learned as a server engineer.
 
+---
 
 <h2>Student Projects</h2>
 <h3>1. Segment => <a href = "https://github.com/CYJ1/segment"> Details with Images </a> </h3>
