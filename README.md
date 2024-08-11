@@ -4,61 +4,58 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2>🐥 Hi, I’m @JiyoungMa 🐥</h2>
 
-I'm **Jiyoung Ma**, a college student, majoring in Computer Science Engineering from South Korea to become a **Backend Developer** ! <br> <br>
+Currently, I am working as a backend developer at KakaoPay  in Pangyo, South Korea. <br>
+I prefer to take ownership of a specific service and improve it based on a deep understanding. I enjoy learning about various solutions and always consider how to achieve better outcomes.
 
-**이력서 및 포트폴리오↓** <br>
-https://mahogany-giver-7d7.notion.site/Jiyoung-Ma-530c8a5f035d4a2f99bec8a3bb5a4658
+<h3>💻 Skills</h3>
 
-<h3>💻 Languages which I have used before</h3>
+Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-squar&logo=Kotlin&logoColor=white"/></a>&nbsp
+</p>
+
+Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-squar&logo=apachekafka&logoColor=white"/></a>&nbsp
+</p>
+
+Development Tools
+<p>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+</p>
+
+Databases
+<p>
+<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-squar&logo=redis&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
-<h3>📚 Techs that I've been studying lately </h3>
-<p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></a>&nbsp 
-</p>
 
-<br>
+<h2> Side Projects </h2>
+<h3> 1. Lesson and Learns (Ongoing Projects)</h3>
 
-<h2>프로젝트 설명</h2>
-<h3>1. WebVolume/Volume (진행중) => <a href = "https://github.com/WebVolume/volume#readme"> Server Api Documents </a> </h3>
-
-- "Sound Cloud" 웹사이트를 분석 후, 주요 기능들을 구현해보는 __팀 프로젝트__
-- 본인은 백엔드 담당으로 현재 User 관련 기능들을 구현함
-- Heroku에 API 서버 올림<br><br>
+- A project that organizes everything I've learned as a server engineer.
 
 
-<h3>2. Segment (완료) => <a href = "https://github.com/CYJ1/segment"> Details with Images </a> </h3>
+<h2>Student Projects</h2>
+<h3>1. Segment => <a href = "https://github.com/CYJ1/segment"> Details with Images </a> </h3>
 
- - Java Socket을 사용한 안드로이드 채팅 앱을 만드는 **팀 프로젝트** <br>
- - 본인은 백엔드 담당으로 큰 채팅방, 작은 채팅방 관련 모든 기능과 User List 관련 기능 구현 및 코드 취합 & 최종 수정을 담당<br><br>
-
-
-<h3>3. SegmentRe (진행중) => <a href = "https://github.com/JiyoungMa/SegmentRe"> Details with Images </a> </h3>
-
- - 프로젝트 2번 Segment를 웹 페이지로 구현하는 **개인 프로젝트** <br>
- - Spring Boot, JPA, mySQL, Thymeleaf(+BootStrap) (추후에 heroku 등으로 서버 업로드 예정)<br><br>
+ - Team project for creating an Android chat app using Java Socket <br>
+ - I was responsible for the backend, implementing all features related to large and small chat rooms, as well as the User List. I also handled code integration and final revisions.<br>
+ - Developed : <a href = "https://github.com/JiyoungMa/SegmentRe"> SegmentRe (Unfinished) </a>
 
 
-<h3>4. MagazineAutomationProject (완료) => <a href = "https://github.com/JiyoungMa/MagazineAutomationProject"> Details with Workflow </a> </h3>
+<h3>2. MagazineAutomationProject => <a href = "https://github.com/JiyoungMa/MagazineAutomationProject"> Details with Workflow </a> </h3>
 
-- 2020-12-28~2021-02-26에 진행한 현장실습 시, 진행한 매거진 자동화 프로그램
-- 사내 프로그램이기 때문에, 간단하게 python code로만 작성함<br><br>
-
-
-<h3>5. LogProject (완료) => <a href = "https://github.com/JiyoungMa/LogProject"> Details with Result Graphs </a> </h3>
-
-- 2020-12-28~2021-02-26에 진행한 현장실습 시, 진행한 로그 통계 산출 프로그램
-- Elastic Search를 통해 수집된 Log를 분석하여, Elastic Search에서 제공하는 통계치와 동일한지 확인 => 통계치의 의미를 이해하기 위함
-- 사내 프로그램이기 때문에, 간단하게 python code로만 작성함<br><br>
+- Magazine automation program developed during an internship from 2020-12-28 to 2021-02-26
+- Implemented as a simple Python script since it was an internal program<br><br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiyoungMa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h3>3. LogProject => <a href = "https://github.com/JiyoungMa/LogProject"> Details with Result Graphs </a> </h3>
+
+- Log statistics calculation program developed during an internship from 2020-12-28 to 2021-02-26
+- Analyzed logs collected through Elasticsearch to verify if the statistics matched those provided by Elasticsearch, aiming to understand the meaning of the statistics
+- Implemented as a simple Python script since it was an internal program<br><br>
